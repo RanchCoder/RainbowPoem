@@ -1,0 +1,8 @@
+Violet
+indigo
+blue
+green
+yellow
+orange
+red
+purple
